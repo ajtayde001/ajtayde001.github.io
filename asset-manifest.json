@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be4c4982.css",
+    "main.js": "/static/js/main.3890c044.js",
+    "static/media/Screenshot (257).png": "/static/media/Screenshot (257).3bf387d11f2c3410aa1c.png",
+    "static/media/Screenshot (258).png": "/static/media/Screenshot (258).e7d6544d553825fd3288.png",
+    "static/media/Screenshot (262).png": "/static/media/Screenshot (262).c402d92036d2ddc13d6f.png",
+    "static/media/Screenshot (259).png": "/static/media/Screenshot (259).d557914eeea567b17221.png",
+    "static/media/AjayTayde.pdf": "/static/media/AjayTayde.05eff421696465694a11.pdf",
+    "static/media/Admin-Panel-Dashboard.png": "/static/media/Admin-Panel-Dashboard.c97506c9510babb9ec52.png",
+    "static/media/web-removebg-preview.png": "/static/media/web-removebg-preview.9fed7f1d0b7ca01038fd.png",
+    "static/media/Web-designer-1024x821.webp": "/static/media/Web-designer-1024x821.6e57f7f5669037a83b03.webp",
+    "static/media/todolist.png": "/static/media/todolist.13858f78acbb5bec224e.png",
+    "static/media/logo new.png": "/static/media/logo new.73b82d0f87c75f03c790.png",
+    "static/media/profileimg.jpeg": "/static/media/profileimg.9b12f310e27b6a5135b6.jpeg",
+    "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
+    "index.html": "/index.html",
+    "main.be4c4982.css.map": "/static/css/main.be4c4982.css.map",
+    "main.3890c044.js.map": "/static/js/main.3890c044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be4c4982.css",
+    "static/js/main.3890c044.js"
+  ]
+}
