@@ -4,7 +4,7 @@ import Homepage from '../components/Homepage/Homepage'
 
 function Home() {
   return (
-    <div  id="home">
+    <div  data-testid="home">
       <Header />
       <Homepage />
     </div>

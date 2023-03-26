@@ -4,7 +4,7 @@ import Header from '../components/Header/Header'
 
 function Contact() {
   return (
-    <div  id="contact">
+    <div  data-testid="contact">
       <Header />
       <Contactpage />
     </div>

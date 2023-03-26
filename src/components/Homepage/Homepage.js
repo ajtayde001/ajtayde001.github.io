@@ -15,7 +15,7 @@ function Home() {
   return (
     <>
       <Header />
-      <div className='homepagebackground' id= "home">
+      <div className='homepagebackground' data-testid= "home">
       <Container>
         <Row>
           <Col md={7}>

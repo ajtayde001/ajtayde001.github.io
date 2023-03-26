@@ -9,7 +9,7 @@ import { TbBrandJavascript,TbBrandVscode} from "react-icons/tb";
 function Skills() {
   return (
     
-    <div className='aboutpagebackground' id= "skills">
+    <div className='aboutpagebackground' data-testid= "skills">
     <Container>
         <Row className='textbackground'>
             <Col md={7} >

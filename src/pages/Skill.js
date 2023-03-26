@@ -5,7 +5,7 @@ import Skills from '../components/Skills';
 
 function Skill() {
   return (
-    <div id="skills">
+    <div data-testid="skills">
       <Header />
       <Skills />
     </div>

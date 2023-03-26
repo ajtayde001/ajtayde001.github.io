@@ -21,7 +21,7 @@ function Header() {
   window.addEventListener("scroll", scrollHandler);
 
   return (
-    <div id="nav-menu">
+    <div data-testid="nav-menu">
     <Navbar expanded={expand}
       fixed="top"
       expand="md"

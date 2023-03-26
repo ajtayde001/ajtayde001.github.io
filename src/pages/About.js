@@ -5,7 +5,7 @@ import Aboutpage from '../components/Aboutpage/Aboutpage'
 
 function About() {
   return (
-    <div id="about" className="about section">
+    <div data-testid="about" className="about section">
       <Header />
       <Aboutpage />
     </div>

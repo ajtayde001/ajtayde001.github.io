@@ -11,7 +11,7 @@ import todolist from '../../Assets/todolist.png'
 
 function Projectlist() {
   return (
-    <div className="projectbackground" id='projects'>
+    <div className="projectbackground" data-testid='projects'>
       <Container fluid className="project-section">
         <Container>
           <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>

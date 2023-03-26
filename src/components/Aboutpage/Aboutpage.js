@@ -5,7 +5,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 
 function Aboutpage() {
     return (
-        <div className='aboutpagebackground' id= "about">
+        <div className='aboutpagebackground' data-testid= "about">
             <Container>
                 <Row className='textbackground'>
                     <Col md={7} >
